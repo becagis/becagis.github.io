@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://becagis.github.io/al-folio/sitemap.xml
+Sitemap: https://becagis.github.io/sitemap.xml
